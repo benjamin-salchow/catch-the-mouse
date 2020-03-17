@@ -2,6 +2,8 @@
 
 This is a game that is used for education purposes. This allows to learn Java and object oriented programming within a game.
 
+![Screenshot of catch the mouse](screenshot.png)
+
 ## Import
 
 This game can easily be imported as an Eclipse project.
